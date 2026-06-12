@@ -1,4 +1,4 @@
-age = 25
+age = 1
 if age < 4:
     price = 0
 elif age < 18:
